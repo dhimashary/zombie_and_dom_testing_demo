@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "@testing-library/dom": "^7.5.7",
+    "@testing-library/jest-dom": "^5.8.0",
     "jest": "^26.0.1",
     "supertest": "^4.0.2",
     "zombie": "^6.1.4"
